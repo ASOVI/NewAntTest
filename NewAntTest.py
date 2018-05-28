@@ -5,7 +5,7 @@ Created on Sun Nov 12 11:07:24 2017
 @author: Alena
 """
 
-import sys;
+import sys
 import os
 import time
 from PyQt5 import QtGui,QtWidgets,QtCore,QtNetwork
